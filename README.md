@@ -2,7 +2,7 @@
 
 Hello 👋 thank you for showing your interest in Bits of Good! This take home assessment will assess your basic web development skills. The bootcamp generally requires having some knowledge beforehand in HTML/CSS to be successful, so this assessment will serve as a reflection of your ability to work with HTML/CSS.
 
-We have provided a sample HTML/CSS boilerplate but feel free to customize this repository to your needs or create your own. Because this assessment is very open ended, there are many ways to complete this assessment. Our only rules are:
+We have provided a sample HTML/CSS boilerplate but feel free to customize this repository to your needs or create your own. Because this assessment is very open ended, there are many ways to complete this assessment. Our only rules are: trigger rebuild
 
 - Please use only vanilla HTML, CSS, and Javascript (optional)
 - Do not use any libraries or frameworks such as Bootstrap, Jquery, React, etc.
